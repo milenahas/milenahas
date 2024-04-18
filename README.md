@@ -15,7 +15,8 @@ Abaixo você pode conferir algumas das minhas skills:
 
 ### Contato
 <div>
-<a href = "mailto:milena.has@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/-Email-005FF9?logo=maildotru&logoColor=white&style=flat-square" target="_blank"></a>
+<a href = "mailto:milena.has@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/-Email-005FF9?logo=maildotru&logoColor=white&style=for-the-badge" target="_blank"></a>
+  
 <a href="https://www.linkedin.com/in/milena-alves-0b2635195/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
