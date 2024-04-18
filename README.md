@@ -21,4 +21,3 @@ Abaixo você pode conferir algumas das minhas skills:
 </div>
 
 ![](https://komarev.com/ghpvc/?username=milenahas&label=Views&color=ff69b4) 
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react
