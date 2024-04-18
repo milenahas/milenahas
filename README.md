@@ -4,8 +4,6 @@ Me chamo Milena, sou apaixonada por tecnologia e computação desde sempre! Trab
 
 Abaixo você pode conferir algumas das minhas skills:
 
-• Linguagens: TypeScript/JavaScript
-
-• Frameworks/ferramentas: Angular/React/Vue.js
-
-• Skills e afinidade: Node, Loopback 4, Git, GitLab, Jira, UI/UX, Figma, bootstrap, interfaces responsivas, consumo de API Rest, Swagger, Insomnia, Firebase, inglês avançado/fluente.
+• Linguagens: TypeScript/JavaScript<br>
+• Frameworks/ferramentas: Angular/React/Vue.js<br>
+• Skills e afinidade: Node, Loopback 4, Git, GitLab, Jira, UI/UX, Figma, bootstrap, interfaces responsivas, consumo de API Rest, Swagger, Insomnia, Firebase, inglês avançado/fluente.<br>
