@@ -1,6 +1,6 @@
 # Olá! 
 
-Me chamo Milena, sou apaixonada por tecnologia e computação desde sempre! Sou formada em Sistemas de Informação e trabalho com desenvolvimento front-end há 3 anos, com experiência focada em Angular, mas também domino demais frameworks como Vue.js e React.
+Me chamo Milena, sou apaixonada por tecnologia e computação desde sempre! Sou formada em Sistemas de Informação e trabalho com desenvolvimento front-end há 4 anos, com experiência focada em Angular, mas também domino demais frameworks como Vue.js e React.
 
 Abaixo você pode conferir algumas das minhas skills:
 
