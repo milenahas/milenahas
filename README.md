@@ -1,12 +1,10 @@
 # Olá! 
 
-Me chamo Milena, sou apaixonada por tecnologia e computação desde sempre! Sou formada em Sistemas de Informação e trabalho com desenvolvimento front-end há 4 anos, com experiência focada em Angular, mas também domino demais frameworks como Vue.js e React.
+Me chamo Milena, sou apaixonada por tecnologia e computação desde sempre! Sou formada em Sistemas de Informação e trabalho com desenvolvimento front-end há 4 anos, com experiência consolidada em Angular, mas também domino demais frameworks como React e Vue.js.
 
 Abaixo você pode conferir algumas das minhas skills:
 
-✨ Linguagens: TypeScript/JavaScript<br>
-✨ Frameworks/ferramentas: Angular/React/Vue.js<br>
-✨ Skills e afinidade: Node, Loopback 4, Git, GitLab, Jira, UI/UX, Figma, bootstrap, interfaces responsivas, consumo de API Rest, Swagger, Insomnia, Firebase, inglês avançado/fluente.<br>
+✨ Skills e tecnologias: Angular, React, Vue.js, Redux (NgRx), RxJS, DataDog, Jest, Node.js, Figma.
 
 <div>
 <a href="https://github.com/milenahas">
