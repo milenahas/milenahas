@@ -4,7 +4,7 @@ Me chamo Milena, sou apaixonada por tecnologia e computação desde sempre! Sou 
 
 Abaixo você pode conferir algumas das minhas skills:
 
-✨ Skills e tecnologias: Angular, React, Vue.js, Redux (NgRx), RxJS, DataDog, Jest, Node.js, Figma.
+✨ Skills e tecnologias: Angular, React, Vue.js, Next.js, Redux (NgRx), Storybook, RxJS, DataDog, Jest, Vitest, Node.js, Figma.
 
 <div>
 <a href="https://github.com/milenahas">
